@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "121",
+        "232",
+        "121"
+    ],
+    "key": {
+        "1": {
+            "item": "minecraft:ice"
+        },
+        "2": {
+            "item": "minecraft:snowball"
+        },
+        "3": {
+            "item": "minecraft:book"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

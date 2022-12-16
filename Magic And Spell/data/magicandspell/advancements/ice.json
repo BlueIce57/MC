@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "magicandspell:ice"
+        }
+      }
+    },
+    "rewards": {
+      "function": "magicandspell:ice"
+    }
+  }
+  
